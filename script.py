@@ -14,7 +14,7 @@ Else , Add this bot to your group and it would work just fine !!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @anime_volume </b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : ANIME SEARCH BOT</b>
