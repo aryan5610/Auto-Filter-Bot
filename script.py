@@ -9,7 +9,7 @@ For more click <i>help</i></b>"""
 
     HELP_MSG = """<b>How to use the bot??</b>
 <i>    
-JUST JOIN THE GROUP @animerivs and use the bot their and you will easily be able to use this bot !!
+JUST JOIN THE GROUP @animerivs and use the bot there and you will easily be able to use this bot !!
 Else , Add this bot to your group and it would work just fine !!
 Bot will automatically search for your file and give links to that!
 </i>
